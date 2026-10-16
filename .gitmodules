@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ProgMan2035/tg-notifier-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:ProgMan2035/tg-notifier-backend.git
